@@ -54,10 +54,10 @@
         height: 83vh;
         margin-bottom: 0;
     }
-    article nav{
+    article {
         font-size: 1rem;
     }
-    footer{
+    footer nav{
         height: fit-content;
         margin-bottom: 2rem;
     }
